@@ -6,16 +6,15 @@ author_profile: true
 ---
 
 
-**Legal Name**: 王申, Shen WANG 
+**Legal Name**: 何煜, Yu HE 
 
 **Pronouns**: he/him/his
 
-**E-mail**: [shenwang@mail.nwpu.edu.cn](mailto:shenwang@mail.nwpu.edu.cn) (preferred), [shenwang918@gmail.com](mailto:shenwang918@gmail.com)
+**E-mail**: [yuuhe@buaa.edu.cn](mailto:yuuhe@buaa.edu.cn) (preferred), [hckrinston@gmail.com](mailto:hckrinston@gmail.com)
 
 **Mailing address**:
 ```txt
-Rm. 121, Bldg. C, 
-Chang'an Camp., Northwestern Polytechnical Univ., 
-1 Dongxiang Rd., Chang'an Dist., 
-Xi'an, Shaanxi, China, 710100
+School of Integrated Circuit Science and Engineering,
+Beihang University (BUAA), 
+37 Xueyuan Road, Haidian District, Beijing, 100191, P.R.China.
 ```

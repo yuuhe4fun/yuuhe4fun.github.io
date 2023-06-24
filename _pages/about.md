@@ -34,7 +34,7 @@ Skills: `Electromagnetic Field and Microwave Technology`, `Signals and Systems`,
 
 Publications
 ======
-- Iltaf Muhammad, **Yu He**, Anwar Ali, Wen Zhang and Ping Kwan Johnny Wong<sup>\*</sup>, [First-principles prediction of the half-metallicity in quaternary Heusler CoRhCrAl thin films](https://iopscience.iop.org/article/10.1088/1402-4896/ac7679), *Phys. Scr.* 97 075812 (2022)
+- Iltaf Muhammad, **Yu He**, Anwar Ali, Wen Zhang and Ping Kwan Johnny Wong\*, [First-principles prediction of the half-metallicity in quaternary Heusler CoRhCrAl thin films](https://iopscience.iop.org/article/10.1088/1402-4896/ac7679), *Phys. Scr.* 97 075812 (2022)
 
 Visitor Map
 ======
