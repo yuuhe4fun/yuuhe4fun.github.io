@@ -22,4 +22,4 @@ The main configuration file for the site is in the base directory in [_config.ym
 
 Visitor Map
 ======
-<a href="https://info.flagcounter.com/f3c5"><img src="https://s11.flagcounter.com/map/f3c5/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+<a href="https://info.flagcounter.com/z8Mh"><img src="https://s11.flagcounter.com/map/z8Mh/size_l/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
