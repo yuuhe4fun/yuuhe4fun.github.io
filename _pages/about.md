@@ -14,11 +14,25 @@ Current
 
 Short Bio
 ======
-I am **Shen WANG (何煜)**, a third-year undergraduate student at the [School of Cybersecurity](https://wlkjaqxy.nwpu.edu.cn/), [Northwestern Polytechnical University (NWPU)](https://www.nwpu.edu.cn/), majoring in Information Security. I grew up in Fuyang, Anhui in northern China.
+I am **Yu HE (何煜)**, a third-year undergraduate student at the [School of Cybersecurity](https://wlkjaqxy.nwpu.edu.cn/), [Northwestern Polytechnical University (NWPU)](https://www.nwpu.edu.cn/), majoring in Information Security. I grew up in Fuyang, Anhui in northern China.
 
 Education
 ======
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+<img align="left" height="94px" width="94px" src="./images/beihang.jpg"/>
+
+**Graduate Student** \
+[**Beihang University**](https://www.buaa.edu.cn/) • 2021/09/01 - Now \
+Skills: `C/C++`, `Verilog`, `Python`, `IC Design` \
+Featured Projects: 
+<br/>
+
+<img align="left" height="94px" width="94px" src="./images/nwpu.png"/>
+
+**Bachelor Degree** \
+[**Northwestern Polytechnical University**](https://www.nwpu.edu.cn/) • 2017/09/01 - 2021/07/01 \
+Skills: `Communication Principle`, `Signals and Systems`, `Digital Signal Processing`, `Pattern Recognition`, `etc.` \
+Featured Projects: 
+<br/>
 
 Visitor Map
 ======
