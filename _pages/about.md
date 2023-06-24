@@ -10,29 +10,31 @@ redirect_from:
 
 Current
 ======
-*I'm looking for a PhD position in the field of computer security and cryptography.*
+*Eureka! Eureka!*
 
 Short Bio
 ======
-I am **Yu HE (何煜)**, a third-year undergraduate student at the [School of Cybersecurity](https://wlkjaqxy.nwpu.edu.cn/), [Northwestern Polytechnical University (NWPU)](https://www.nwpu.edu.cn/), majoring in Information Security. I grew up in Fuyang, Anhui in northern China.
+**Yu HE (何煜)** currently works at [the School of Integrated Circuit Science and Engineering, Beihang University (BUAA)](http://www.sme.buaa.edu.cn/), and just finished his master studies in Prof. [Haiming YU](https://www.researchgate.net/profile/Haiming-Yu-4)'s group from Sept. 2021 to June 2023. Subsequently, he is pursuing his PhD degree in AP. [Guang YANG](https://www.researchgate.net/profile/Guang-Yang-12)'s group from Sept. 2023. Yu does research in Superconducting spintronics under the guidance of AP. [Guang YANG](https://www.researchgate.net/profile/Guang-Yang-12) and Prof. [Jason W.A. Robinson](https://scholar.google.co.uk/citations?user=mkH9powAAAAJ&hl).
 
 Education
 ======
 <img align="left" height="94px" width="94px" src="./images/beihang.jpg"/>
 
-**Graduate Student** \
+**PhD Student** \
 [**Beihang University**](https://www.buaa.edu.cn/) • 2021/09/01 - Now \
-Skills: `C/C++`, `Verilog`, `Python`, `IC Design` \
-Featured Projects: 
+Skills: `C/C++`, `Python`, `Nanofabrication`, `Cryogenic Measurements` \
 <br/>
 
 <img align="left" height="94px" width="94px" src="./images/nwpu.png"/>
 
 **Bachelor Degree** \
 [**Northwestern Polytechnical University**](https://www.nwpu.edu.cn/) • 2017/09/01 - 2021/07/01 \
-Skills: `Communication Principle`, `Signals and Systems`, `Digital Signal Processing`, `Pattern Recognition`, `etc.` \
-Featured Projects: 
+Skills: `Electromagnetic Field and Microwave Technology`, `Signals and Systems`, `Digital Signal Processing`, `Pattern Recognition`, `etc.` \
 <br/>
+
+Publications
+======
+- Iltaf Muhammad, **Yu He**, Anwar Ali, Wen Zhang and Ping Kwan Johnny Wong<sup>*</sup>, [First-principles prediction of the half-metallicity in quaternary Heusler CoRhCrAl thin films](https://iopscience.iop.org/article/10.1088/1402-4896/ac7679), *Phys. Scr.* 97 075812 (2022)
 
 Visitor Map
 ======
