@@ -7,8 +7,9 @@ author_profile: true
 
 # Research Experience
 
-## *I. First-principles prediction of the half-metallicity in quaternary Heusler CoRhCrAl thin films*
-**Supervisor:** Prof. [Ping Kwan Johnny Wong](https://teacher.nwpu.edu.cn/xunyijie.html)
+## 2022
+### *First-principles prediction of the half-metallicity in quaternary Heusler CoRhCrAl thin films*
+**Supervisor:** Prof. [Ping Kwan Johnny Wong](https://teacher.nwpu.edu.cn/pkjwong)
 **Date:** Oct. 2020 ~ June 2021
 
 In this research, a first‑principles study of the structural, electronic and magnetic properties of the pristine bulk CoRhCrAl quaternary Heusler alloy and its (111),
