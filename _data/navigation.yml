@@ -9,8 +9,8 @@ main:
   - title: "Research"
     url: /research/
         
-#  - title: "Blog Posts"
-#    url: /year-archive/
+  - title: "Latest arXiv"
+    url: "https://yuuhe4fun.github.io/arxiv_majorana_crawler/arxiv_crawler.html"
 
   - title: "Contact"
     url: /contact/
