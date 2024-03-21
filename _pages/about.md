@@ -35,6 +35,8 @@ Skills: `Electromagnetic Field and Microwave Technology`, `Signals and Systems`,
 Publications
 ======
 \*__ *for equal contribution*
+- <u>**Yu He**</u>, <u>Jiaxu Li</u>, Qiusha Wang, Hisakazu Matsuki and Guang Yang\*, [Spin-Related Superconducting Devices for Logic and Memory Applications](https://spj.science.org/doi/10.34133/adi.0035), *Adv Devices Instrum.* 4 0035 (2023)
+
 - <u>Iltaf Muhammad</u>, <u>**Yu He**</u>, Anwar Ali, Wen Zhang and Ping Kwan Johnny Wong\*, [First-principles prediction of the half-metallicity in quaternary Heusler CoRhCrAl thin films](https://iopscience.iop.org/article/10.1088/1402-4896/ac7679), *Phys. Scr.* 97 075812 (2022)
 
 Visitor Map
